@@ -6,10 +6,13 @@ A brief description of what this project does and who it's for
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS,Bootstrap , Chakra UI,VueJS....During Learn NextJS
+**Client:** React, Redux, TailwindCSS,Bootstrap , Chakra UI,VueJS....,
+
 **Server:** Node, Express,
-**DataBase:** SQL,MongoDB,Graphql
-**Other:** TypeScript
+
+**DataBase:** SQL,MongoDB,Graphql,
+
+**Other:** TypeScript,
 
 
 ## Screenshots
@@ -19,7 +22,7 @@ A brief description of what this project does and who it's for
 
 ## Demo
 
-Insert gif or link to demo
+Insert gif or link to demo (Update Soon)
 
 
 ## Authors
